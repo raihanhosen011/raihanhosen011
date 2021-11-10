@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Completing Web Development
 - ⚡ Fun fact: I love to editing and reading
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="raihanhosen01 | Facebook" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" />][facebook]
@@ -19,6 +21,7 @@
 [<img align="left" alt="raihanhosen01 | Instagram" width="28px" src="https://img.pngio.com/circle-colored-gradient-instagram-media-social-social-media-icon-instagram-circle-png-512_512.png" />][instagram]
 [<img align="left" alt="raihanhosen01 | Youtube" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-15/200/youtube-icon-512.png" />][youtube]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -42,7 +45,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Github stats :
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen011&show_icons=true&theme=radical)
 
