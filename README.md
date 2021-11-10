@@ -61,3 +61,6 @@
 [redux]: https://redux.js.org/
 [firebase]: https://console.firebase.google.com/u/0/?pli=1
 [nodejs]: https://nodejs.org/en/about/
+[vue]: https://v3.vuejs.org/guide/introduction.html#what-is-vue-js
+[mongo]: https://cloud.mongodb.com/
+[express]: https://expressjs.com/
