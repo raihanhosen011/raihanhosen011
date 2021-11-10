@@ -46,10 +46,6 @@
 [<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][tailwind]
 [<img align="left" alt="React" width="28px" src="https://mui.com/static/logo.png" />][material]
 
-<br />
-
-### Github stats :
-
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen011&show_icons=true&theme=radical)
 
 <br/>
