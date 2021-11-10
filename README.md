@@ -1,8 +1,13 @@
+<div align="center">
+  <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
+
 ### Hi there, I'm Raihan hosen 👋
 
-## I'm a Developer , Student and Content Creator!!
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
  
-- 🌱 I’m currently learning Redux 
+- 🔭 I’m currently work with Front-end development
+- 🌱 I’m currently learning MERN 
 - 🥅 2021 Goals: Completing Web Development
 - ⚡ Fun fact: I love to editing and reading
 
