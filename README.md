@@ -44,6 +44,3 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
 <br/>
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen011&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanhosen011)](https://github.com/anuraghazra/github-readme-stats)
- 
