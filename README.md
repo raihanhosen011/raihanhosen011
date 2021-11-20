@@ -36,7 +36,7 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
       <td> Amazon clone </td>
       <td> Javascript, React js </td>
       <td> I have cloned the website of Amazon, the world's most popular e-commerce company </td>
-      <td> [<h2>DEMO</h2>](https://amazon-nw.vercel.app/) </td>
+      <td> <a href='https://amazon-nw.vercel.app/' > <h2>DEMO</h2> </a> </td>
     </tr>
   </tbody>
 </table>
