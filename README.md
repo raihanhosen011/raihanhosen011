@@ -33,10 +33,10 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank"> Amazon clone </a></td>
+      <td> Amazon clone </td>
       <td> Javascript, React js </td>
       <td> I have cloned the website of Amazon, the world's most popular e-commerce company </td>
-      <td> [#Live demo](https://amazon-nw.vercel.app/) </td>
+      <td> [<h2>DEMO</h2>](https://amazon-nw.vercel.app/) </td>
     </tr>
   </tbody>
 </table>
