@@ -5,7 +5,6 @@
 Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in multiple technologies to build websites and web applications.For me as professional web developer, learning new technologies in web is my passion. Right now, I am working as Front-end developer on different platform. Just to inform you, JavaScript is my love. I love to code in JavaScript, build projects in JavaScript .
 
 ### :coffee: &emsp;Connect with me!
-
 <hr/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raihanhosen01)
