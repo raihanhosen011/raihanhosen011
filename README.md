@@ -1,10 +1,14 @@
-<div align="center">
-  <img width="100%" height='100%' src="https://raw.githubusercontent.com/raihanhosen011/raihanhosen011/main/github-bennar.png" alt="cover" /
-</div>
+![Github Banner](https://raw.githubusercontent.com/raihanhosen011/raihanhosen011/main/github-bennar.png)
 
-### Hi there, I'm Raihan hosen 👋
+## Hi there, I am Raihan 
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in multiple technologies to build websites and web applications.For me as professional web developer, learning new technologies in web is my passion. Right now, I am working as Front-end developer on different platform. Just to inform you, JavaScript is my love. I love to code in JavaScript, build projects in JavaScript .
+
+:coffee: &emsp;Connect with me!
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raihanhosen01)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanhosen01) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raihanhosen01) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raihanhosen01) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanhosen011@gmail.com)
 
 
 - 🔭 I’m currently work with Front-end development
@@ -12,61 +16,35 @@
 - 🥅 2021 Goals: Completing Web Development
 - ⚡ Fun fact: I love to editing and reading
 
-<br />
+#### Things I code with
 
-### Connect with me:
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-[<img align="left" alt="raihanhosen01 | Facebook" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" />][facebook]
-[<img align="left" alt="raihanhosen01 | Twitter" width="28px" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png" />][twitter]
-[<img align="left" alt="raihanhosen01 | LinkedIn" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />][linkedin]
-[<img align="left" alt="raihanhosen01 | Instagram" width="28px" src="https://img.pngio.com/circle-colored-gradient-instagram-media-social-social-media-icon-instagram-circle-png-512_512.png" />][instagram]
-[<img align="left" alt="raihanhosen01 | Youtube" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-15/200/youtube-icon-512.png" />][youtube]
+### My Projects
 
-<br />
-<br />
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project Name</b></td>
+      <td><b>Technology</b></td>
+      <td><b> Description </b></td>
+      <td><b>Link</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://learnwithsumit.com" target="_blank"> Amazon clone </a></td>
+      <td> Javascript, React js </td>
+      <td> I have cloned the website of Amazon, the world's most popular e-commerce company </td>
+      <td> [#Live demo](https://amazon-nw.vercel.app/) </td>
+    </tr>
+  </tbody>
+</table>
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="28px" style="margin-bottom:2rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="bootstrap" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="React" width="28px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />][mongo]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][tailwind]
-[<img align="left" alt="React" width="28px" src="https://mui.com/static/logo.png" />][material]
+<br/>
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen011&show_icons=true&theme=radical)
 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanhosen011)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/raihanhosen01
-[facebook]: https://facebook.com/raihanhosen01
-[youtube]: https://www.youtube.com/channel/UCOV0rVxwdzEdGbdbZ1vbPwg
-[instagram]: https://instagram.com/raihanhosen01
-[linkedin]: https://linkedin.com/in/raihanhosen01
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[jsplaylist]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[cssplaylist]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[reactplaylist]: https://reactjs.org/docs/getting-started.html
-[bootstrap]: https://getbootstrap.com/docs/5.0/getting-started/introduction/
-[npm]: https://www.npmjs.com/
-[redux]: https://redux.js.org/
-[firebase]: https://console.firebase.google.com/u/0/?pli=1
-[nodejs]: https://nodejs.org/en/about/
-[vue]: https://v3.vuejs.org/guide/introduction.html#what-is-vue-js
-[mongo]: https://cloud.mongodb.com/
-[express]: https://expressjs.com/
-[tailwind]:https://tailwindcss.com/
-[material]:https://v4.mui.com/getting-started/i
