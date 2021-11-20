@@ -28,7 +28,7 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
       <td><b>Project Name</b></td>
       <td><b>Technology</b></td>
       <td><b> Description </b></td>
-      <td><b>Link</b></td>
+      <td><b>Demo</b></td>
     </tr>
   </thead>
   <tbody>
@@ -36,7 +36,7 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
       <td> Amazon clone </td>
       <td> Javascript, React js </td>
       <td> I have cloned the website of Amazon, the world's most popular e-commerce company </td>
-      <td> <a href='https://amazon-nw.vercel.app/' > <h2>DEMO</h2> </a> </td>
+      <td> <a target="_blank" href='https://amazon-nw.vercel.app/' > LIVE DEMO </a> </td>
     </tr>
   </tbody>
 </table>
@@ -48,3 +48,4 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanhosen011)](https://github.com/anuraghazra/github-readme-stats)
+ 
