@@ -21,8 +21,8 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
 ### Things I code with
 <hr/>
 
-[![MongoDb Badge](https://img.shields.io/badge/MongoDb-E34F26?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/raihanhosen011)
-[![Express Badge](https://img.shields.io/badge/EXPRESS-E34F26?style=for-the-badge&logo=express&logoColor=white)](https://github.com/raihanhosen011)
+[![MongoDb Badge](https://img.shields.io/badge/MongoDb-0081CB?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/raihanhosen011)
+[![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/raihanhosen011)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/raihanhosen011)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/raihanhosen011)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/raihanhosen011)
