@@ -76,3 +76,7 @@ Hi,I am Raihan. I am an experienced Full stack web developer. I have worked in m
 <br/>
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen011&show_icons=true&theme=radical)
+
+<br/>
+
+<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raihanhosen011&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
